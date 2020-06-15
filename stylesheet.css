@@ -1,0 +1,33 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+}
+
+li {
+  list-style: none;
+}
+a{
+  display:block;
+  float:left;
+  padding:40px;
+}
+.header-logo {
+  float:left;
+  font-size: 30px;
+  padding:20px;
+
+.header{
+  background-color:#99FFFF;
+  height:100px;
+}
+html{color:red;}
+h2{
+  color:red;
+}
